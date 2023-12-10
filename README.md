@@ -4,6 +4,6 @@ Welcome。
 
 我是一名c++OIer。
 
-欢迎访问我的个人Blog：[here](https://imoier.xyz)
+欢迎访问我的个人Blog：[here](https://imoier.fun)
 
 来都来了，确定不点击一个star吗？
